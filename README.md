@@ -258,7 +258,7 @@ Redis
 <summary><b>1️⃣ استنساخ المشروع</b></summary>
 
 ```bash
-git clone https://github.com/yourusername/news-platform.git
+git clone https://github.com/hamzatal/news-platform.git
 cd news-platform
 ```
 
@@ -593,7 +593,7 @@ sudo apt install supervisor -y
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/news-platform.git /var/www/news-platform
+git clone https://github.com/hamzatal/news-platform.git /var/www/news-platform
 cd /var/www/news-platform
 
 # Install dependencies
@@ -828,8 +828,8 @@ storage/logs/
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/yourusername">
-        <img src="https://github.com/yourusername.png" width="100px;" alt=""/>
+      <a href="https://github.com/hamzatal">
+        <img src="https://github.com/hamzatal.png" width="100px;" alt=""/>
         <br />
         <sub><b>Your Name</b></sub>
       </a>
@@ -847,7 +847,6 @@ storage/logs/
 - 📧 Email: contact@newsplatform.com
 - 🌐 Website: https://newsplatform.com
 - 💬 Discord: [Join our server](https://discord.gg/newsplatform)
-- 🐦 Twitter: [@newsplatform](https://twitter.com/newsplatform)
 
 ---
 
